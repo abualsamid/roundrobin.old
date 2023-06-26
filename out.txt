@@ -1,0 +1,84 @@
+<html><body>
+<table>
+<tr><th>Game 1</th></tr> 
+<tr><td></td>
+<td>Court 1: Al+Gouveia  vs  Jen+Nairo</td>
+<td>Court 2: Melanie+Asher  vs  Ahmad+Daniel</td>
+<td>Court 3: Toshie+Michele  vs  D'Amato+Remi</td>
+<td>Court 4: Dave+Diego  vs  Tony+Joel</td>
+<td>Court 5: Kim+Mendez  vs  Don+Mia</td>
+</tr>
+<tr><th>Game 2</th></tr> 
+<tr><td></td>
+<td>Court 1: Remi+Nairo  vs  Gouveia+Mendez</td>
+<td>Court 2: Tony+Dave  vs  Toshie+Don</td>
+<td>Court 3: Al+Melanie  vs  Mia+Diego</td>
+<td>Court 4: Kim+Daniel  vs  Joel+Jen</td>
+<td>Court 5: Ahmad+Michele  vs  Asher+D'Amato</td>
+</tr>
+<tr><th>Game 3</th></tr> 
+<tr><td></td>
+<td>Court 1: Dave+Jen  vs  Michele+Tony</td>
+<td>Court 2: Nairo+Asher  vs  Diego+Gouveia</td>
+<td>Court 3: Kim+Toshie  vs  Don+Remi</td>
+<td>Court 4: Mia+Al  vs  Joel+Melanie</td>
+<td>Court 5: D'Amato+Mendez  vs  Ahmad+Daniel</td>
+</tr>
+<tr><th>Game 4</th></tr> 
+<tr><td></td>
+<td>Court 1: Jen+Al  vs  Nairo+Diego</td>
+<td>Court 2: Gouveia+Ahmad  vs  Dave+Joel</td>
+<td>Court 3: Kim+Don  vs  Melanie+Mia</td>
+<td>Court 4: Mendez+Remi  vs  Toshie+D'Amato</td>
+<td>Court 5: Tony+Daniel  vs  Asher+Michele</td>
+</tr>
+<tr><th>Game 5</th></tr> 
+<tr><td></td>
+<td>Court 1: Gouveia+Joel  vs  Toshie+Mia</td>
+<td>Court 2: Daniel+Michele  vs  Remi+Ahmad</td>
+<td>Court 3: Jen+Melanie  vs  Al+Nairo</td>
+<td>Court 4: Dave+Asher  vs  Don+Mendez</td>
+<td>Court 5: Diego+Kim  vs  Tony+D'Amato</td>
+</tr>
+<tr><th>Game 6</th></tr> 
+<tr><td></td>
+<td>Court 1: Dave+Toshie  vs  Diego+Remi</td>
+<td>Court 2: Gouveia+Tony  vs  Joel+Mendez</td>
+<td>Court 3: Al+Ahmad  vs  Jen+Daniel</td>
+<td>Court 4: Kim+Asher  vs  Mia+Michele</td>
+<td>Court 5: D'Amato+Melanie  vs  Don+Nairo</td>
+</tr>
+<tr><th>Game 7</th></tr> 
+<tr><td></td>
+<td>Court 1: Nairo+Dave  vs  Ahmad+D'Amato</td>
+<td>Court 2: Remi+Melanie  vs  Diego+Daniel</td>
+<td>Court 3: Joel+Don  vs  Asher+Mendez</td>
+<td>Court 4: Toshie+Al  vs  Michele+Kim</td>
+<td>Court 5: Gouveia+Mia  vs  Tony+Jen</td>
+</tr>
+<tr><th>Game 8</th></tr> 
+<tr><td></td>
+<td>Court 1: Joel+Mia  vs  Don+Jen</td>
+<td>Court 2: Gouveia+Kim  vs  Nairo+Mendez</td>
+<td>Court 3: Asher+Daniel  vs  Dave+Ahmad</td>
+<td>Court 4: Remi+Tony  vs  Toshie+Melanie</td>
+<td>Court 5: Michele+Al  vs  D'Amato+Diego</td>
+</tr>
+<tr><th>Game 9</th></tr> 
+<tr><td></td>
+<td>Court 1: Gouveia+Remi  vs  Joel+Asher</td>
+<td>Court 2: Nairo+Mia  vs  Diego+Toshie</td>
+<td>Court 3: Don+Tony  vs  Kim+D'Amato</td>
+<td>Court 4: Dave+Daniel  vs  Mendez+Michele</td>
+<td>Court 5: Ahmad+Jen  vs  Al+Melanie</td>
+</tr>
+<tr><th>Game 10</th></tr> 
+<tr><td></td>
+<td>Court 1: Asher+Don  vs  D'Amato+Joel</td>
+<td>Court 2: Melanie+Nairo  vs  Ahmad+Kim</td>
+<td>Court 3: Daniel+Mia  vs  Diego+Jen</td>
+<td>Court 4: Michele+Dave  vs  Tony+Al</td>
+<td>Court 5: Gouveia+Toshie  vs  Mendez+Remi</td>
+</tr>
+</table>
+</body></html>
